@@ -70,5 +70,9 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Other: OpenAI API / Twilio / Stripe
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+1. Venkat Panepalli
+2. Srinivasaraju Kalidindi
+3. Gowrisankar Gunasekaran
+4. Narenkumar N
+5. Maruthi Janyavula
+
