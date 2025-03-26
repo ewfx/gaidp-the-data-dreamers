@@ -29,15 +29,15 @@ This solution combines natural language processing (NLP) with SQL query generati
 
 **Target Audience who will get benefits from this solution :**
 
-Business Intelligence (BI): Enables teams to quickly access and interpret business data (e.g., sales, revenue, user engagement) without needing advanced technical skills.
+**Business Intelligence (BI)**: Enables teams to quickly access and interpret business data (e.g., sales, revenue, user engagement) without needing advanced technical skills.
 
-Customer Support: Helps customer service teams quickly retrieve relevant customer data or product information.
+**Customer Support**: Helps customer service teams quickly retrieve relevant customer data or product information.
 
-Marketing Analytics: Marketing teams can ask the chatbot about campaign performance, customer behavior, or sales trends without manually running SQL queries.
+**Marketing Analytics**: Marketing teams can ask the chatbot about campaign performance, customer behavior, or sales trends without manually running SQL queries.
 
-Product Development: Teams can use the chatbot to access product usage data, customer feedback, or bug reports.
+**Product Development**: Teams can use the chatbot to access product usage data, customer feedback, or bug reports.
 
-Finance and Accounting: Finance teams can quickly query financial data (e.g., profits, expenses, forecasts) and produce ad-hoc reports.
+**Finance and Accounting:** Finance teams can quickly query financial data (e.g., profits, expenses, forecasts) and produce ad-hoc reports.
 
 ## ⚙️ What It Does
 Explain the key features and functionalities of your project.
