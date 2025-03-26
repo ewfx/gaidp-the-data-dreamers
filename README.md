@@ -92,7 +92,7 @@ You can manually test the API using:
 
 ## 🏗️ Tech Stack
 - 🔹 Frontend: HTML
-- 🔹 Backend: Fast API / Gen AI / Python Scripts
+- 🔹 Backend: Fast API / Gen AI / Python Scripts (Ollama Module)
 - 🔹 Database: Microsoft SQL Server
 
 
