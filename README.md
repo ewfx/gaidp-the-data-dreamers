@@ -47,7 +47,10 @@ This solution combines natural language processing (NLP) with SQL query generati
 Briefly outline the technologies, frameworks, and tools used in development.
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+1. Retrieving accurate context from NLP to Database
+2. Validating syntax and generating precise step definitions
+3. Reducing latency in generating results responses from Natural Language questions (NLP)
+
 
 ## 🏃 How to Run
 1. Clone the repository  
