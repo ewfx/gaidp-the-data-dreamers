@@ -48,7 +48,7 @@ We built this project using a modern tech stack to ensure scalability, efficienc
 
 • **Frontend:** We used HTML for a responsive and aesthetically pleasing user interface. 
 
-• **Backend:** The backend is powered by FastAPI & Gen AI, a high-performance Python framework that understands users queries in natural language (NLP) which connects to Microsoft SQL server and get accurate result efficiently.
+• **Backend:** The backend is powered by FastAPI & Gen AI, a high-performance Python framework & Ollama module is an AI-powered natural language processing (NLP) tool that helps generate responses based on prompts. In this project, we use Ollama to generate SQL queries dynamically based on user input.
 
 • **Database:** We chose Microsoft SQL Server as our database due to its flexible & relation based storage, which is well-suited for handling AI-generated content and embeddings.
 
