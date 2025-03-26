@@ -40,7 +40,8 @@ This solution combines natural language processing (NLP) with SQL query generati
 **Finance and Accounting:** Finance teams can quickly query financial data (e.g., profits, expenses, forecasts) and produce ad-hoc reports.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+<img width="823" alt="image" src="https://github.com/user-attachments/assets/e8e3deac-a3e4-4402-ab44-1acf80a2f3c6" />
+
 
 ## 🛠️ How We Built It
 Briefly outline the technologies, frameworks, and tools used in development.
