@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Gen AI SQL Chatbot
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
