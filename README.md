@@ -1,7 +1,7 @@
 # 🚀 Gen AI SQL Chatbot
 
 ## 📌 Table of Contents
-- [Introduction]The AI-Powered SQL Chatbot is an intelligent assistant designed to allow users to interact with databases using natural language (NL). This chatbot enables non-technical users, or those without advanced SQL knowledge, to access and retrieve data from a database simply by asking questions in conversational language. It helps businesses and teams to gain insights from their data without needing to write complex SQL queries themselves
+- [Introduction](#introduction)
 - [Demo](#demo)
 - [Inspiration](#inspiration)
 - [What It Does](#what-it-does)
