@@ -44,12 +44,21 @@ This solution combines natural language processing (NLP) with SQL query generati
 
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+We built this project using a modern tech stack to ensure scalability, efficiency, and a smooth user experience.
+
+• **Frontend:** We used HTML for a responsive and aesthetically pleasing user interface. 
+
+• **Backend:** The backend is powered by FastAPI & Gen AI, a high-performance Python framework that understands users queries in natural language (NLP) which connects to Microsoft SQL server and get accurate result efficiently.
+
+• **Database:** We chose Microsoft SQL Server as our database due to its flexible & relation based storage, which is well-suited for handling AI-generated content and embeddings.
+
+This stack allowed us to build a responsive, AI-powered application that seamlessly integrates natural language processing with a robust and scalable architecture.
 
 ## 🚧 Challenges We Faced
 1. Retrieving accurate context from NLP to Database
 2. Validating syntax and generating precise step definitions
 3. Reducing latency in generating results responses from Natural Language questions (NLP)
+4. Free version of Gen AI having some limitations on free instructures.
 
 
 ## 🏃 How to Run
@@ -68,7 +77,7 @@ Briefly outline the technologies, frameworks, and tools used in development.
 
 ## 🏗️ Tech Stack
 - 🔹 Frontend: HTML
-- 🔹 Backend: Gen AI / Python Scripts
+- 🔹 Backend: Fast API / Gen AI / Python Scripts
 - 🔹 Database: Microsoft SQL Server
 
 
