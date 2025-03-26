@@ -20,6 +20,7 @@ The AI-Powered SQL Chatbot is an intelligent assistant designed to allow users t
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) attached in the artifacts under demo folder (both .mp4 & webm formats)  
 🖼️ Screenshots:
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/8fc9decd-0810-4998-9f84-aa0258f829d4" />
 
 ![Screenshot 1](link-to-image)
 
